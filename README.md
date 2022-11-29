@@ -12,11 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/Mariya
   
-🌱 I’m currently learning : JavaScript
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
+🌱 I’m currently learning : Android development
 
   💬 Ask me about for any help
 
